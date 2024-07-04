@@ -1,0 +1,29 @@
+C:\Users\Jonathan_Velosa\source\repos\SOLIDPRinciples\SegregationInterface\bin\Debug\net8.0\SegregationInterface.exe
+C:\Users\Jonathan_Velosa\source\repos\SOLIDPRinciples\SegregationInterface\bin\Debug\net8.0\SegregationInterface.deps.json
+C:\Users\Jonathan_Velosa\source\repos\SOLIDPRinciples\SegregationInterface\bin\Debug\net8.0\SegregationInterface.runtimeconfig.json
+C:\Users\Jonathan_Velosa\source\repos\SOLIDPRinciples\SegregationInterface\bin\Debug\net8.0\SegregationInterface.dll
+C:\Users\Jonathan_Velosa\source\repos\SOLIDPRinciples\SegregationInterface\bin\Debug\net8.0\SegregationInterface.pdb
+C:\Users\Jonathan_Velosa\source\repos\SOLIDPRinciples\SegregationInterface\obj\Debug\net8.0\SegregationInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan_Velosa\source\repos\SOLIDPRinciples\SegregationInterface\obj\Debug\net8.0\SegregationInterface.AssemblyInfoInputs.cache
+C:\Users\Jonathan_Velosa\source\repos\SOLIDPRinciples\SegregationInterface\obj\Debug\net8.0\SegregationInterface.AssemblyInfo.cs
+C:\Users\Jonathan_Velosa\source\repos\SOLIDPRinciples\SegregationInterface\obj\Debug\net8.0\SegregationInterface.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan_Velosa\source\repos\SOLIDPRinciples\SegregationInterface\obj\Debug\net8.0\SegregationInterface.dll
+C:\Users\Jonathan_Velosa\source\repos\SOLIDPRinciples\SegregationInterface\obj\Debug\net8.0\refint\SegregationInterface.dll
+C:\Users\Jonathan_Velosa\source\repos\SOLIDPRinciples\SegregationInterface\obj\Debug\net8.0\SegregationInterface.pdb
+C:\Users\Jonathan_Velosa\source\repos\SOLIDPRinciples\SegregationInterface\obj\Debug\net8.0\SegregationInterface.genruntimeconfig.cache
+C:\Users\Jonathan_Velosa\source\repos\SOLIDPRinciples\SegregationInterface\obj\Debug\net8.0\ref\SegregationInterface.dll
+C:\Users\Jonathan_Velosa\Source\Repos\dotNetCommunity\SOLID principles\4. Interface Segregation\SegregationInterface\bin\Debug\net8.0\SegregationInterface.exe
+C:\Users\Jonathan_Velosa\Source\Repos\dotNetCommunity\SOLID principles\4. Interface Segregation\SegregationInterface\bin\Debug\net8.0\SegregationInterface.deps.json
+C:\Users\Jonathan_Velosa\Source\Repos\dotNetCommunity\SOLID principles\4. Interface Segregation\SegregationInterface\bin\Debug\net8.0\SegregationInterface.runtimeconfig.json
+C:\Users\Jonathan_Velosa\Source\Repos\dotNetCommunity\SOLID principles\4. Interface Segregation\SegregationInterface\bin\Debug\net8.0\SegregationInterface.dll
+C:\Users\Jonathan_Velosa\Source\Repos\dotNetCommunity\SOLID principles\4. Interface Segregation\SegregationInterface\bin\Debug\net8.0\SegregationInterface.pdb
+C:\Users\Jonathan_Velosa\Source\Repos\dotNetCommunity\SOLID principles\4. Interface Segregation\SegregationInterface\obj\Debug\net8.0\SegregationInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan_Velosa\Source\Repos\dotNetCommunity\SOLID principles\4. Interface Segregation\SegregationInterface\obj\Debug\net8.0\SegregationInterface.AssemblyInfoInputs.cache
+C:\Users\Jonathan_Velosa\Source\Repos\dotNetCommunity\SOLID principles\4. Interface Segregation\SegregationInterface\obj\Debug\net8.0\SegregationInterface.AssemblyInfo.cs
+C:\Users\Jonathan_Velosa\Source\Repos\dotNetCommunity\SOLID principles\4. Interface Segregation\SegregationInterface\obj\Debug\net8.0\SegregationInterface.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan_Velosa\Source\Repos\dotNetCommunity\SOLID principles\4. Interface Segregation\SegregationInterface\obj\Debug\net8.0\SegregationInterface.sourcelink.json
+C:\Users\Jonathan_Velosa\Source\Repos\dotNetCommunity\SOLID principles\4. Interface Segregation\SegregationInterface\obj\Debug\net8.0\SegregationInterface.dll
+C:\Users\Jonathan_Velosa\Source\Repos\dotNetCommunity\SOLID principles\4. Interface Segregation\SegregationInterface\obj\Debug\net8.0\refint\SegregationInterface.dll
+C:\Users\Jonathan_Velosa\Source\Repos\dotNetCommunity\SOLID principles\4. Interface Segregation\SegregationInterface\obj\Debug\net8.0\SegregationInterface.pdb
+C:\Users\Jonathan_Velosa\Source\Repos\dotNetCommunity\SOLID principles\4. Interface Segregation\SegregationInterface\obj\Debug\net8.0\SegregationInterface.genruntimeconfig.cache
+C:\Users\Jonathan_Velosa\Source\Repos\dotNetCommunity\SOLID principles\4. Interface Segregation\SegregationInterface\obj\Debug\net8.0\ref\SegregationInterface.dll
